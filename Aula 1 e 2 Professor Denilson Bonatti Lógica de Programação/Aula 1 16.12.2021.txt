@@ -1,4 +1,4 @@
-Algoritmo 
+		ALGORITMO
 
 É uma sequência de passos que resolve um problema.
 [ na programação é importante indicar o ínicio eo fim de uma atividade]
@@ -21,5 +21,14 @@ Início - dia
 Fim - dia
 	_Também chamado de pseudocódigo
 
-* Função condicional
+* Função condicional (Exemplo)
+ 	 "Se existir algo, faça tal coisa".
+
+		PSEUDOCÓDICO
+
+É uma forma genérica de escrever um algoritmo utilizando uma linguagem simples de forma a ser entendida por qualquer pessoa.
+
+(Nativa, ou seja, em Português)
+
+
 	  
