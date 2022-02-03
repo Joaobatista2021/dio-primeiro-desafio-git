@@ -1,0 +1,4 @@
+Algorítimo 
+
+É uma sequência de passos que resolve um problema.
+[ na programação é importante indicar o ínicio eo fim de uma atividade] 
