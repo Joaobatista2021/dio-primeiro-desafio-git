@@ -32,10 +32,46 @@ INÍCIO----- entrada ------procedimento --------saída -------- FIM
 > Lógica: Verdadeiro ou Falso
 >
 > ​	Ex.: **especificar se o usuário tem cartão de crédito "SIM ou NÃO"?**
+
+
+
+**Constante**
+
+> As constates são valores imutáveis (na memória) e não são alteradas durante a vida **útil do programa.**
+
+
+
+**Declaração de Constante**
+
+Ex.: Pseudocódigo
+
+
+
+> *INÍCIO*
 >
-> 
+> <Declara> pi = 3,14 (<u>Constante</u>)
+>
+> <Declara> raio: (ex.: número) (<u>Variáve</u>l)
+>
+> *FIM*
+
+***Obs.:*** "Variável não tem espaço em branco, sempre começar com uma letra e evitar ao máximo a utilização de acentuação."
+
+Ex.: "nota1,nota2,nota3,media"
+
+> ***ENTRADA*** pode ter o nome de ***LER***
+>
+> ***SAÍDA*** pode ter o nome de ***ESCREVER***
+>
+> Dependendo do programa
 
 
+
+
+
+
+
+ 
 
 
 
