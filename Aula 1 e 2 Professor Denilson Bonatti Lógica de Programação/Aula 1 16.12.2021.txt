@@ -1,4 +1,25 @@
-Algorítimo 
+Algoritmo 
 
 É uma sequência de passos que resolve um problema.
-[ na programação é importante indicar o ínicio eo fim de uma atividade] 
+[ na programação é importante indicar o ínicio eo fim de uma atividade]
+
+Ex.: Exemplo de Algoritmo
+
+Início - dia
+
+	acordei
+	levantei da cama
+	troquei de roupa
+	escovei os dentes
+	fui a padaria
+	comprei pão
+	voltei pra casa
+	tomei café
+	escovei os dentes
+	fui ao trabalho
+
+Fim - dia
+	_Também chamado de pseudocódigo
+
+* Função condicional
+	  
